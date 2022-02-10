@@ -100,6 +100,10 @@ The following code snippet demonstrates how to declare Bluetooth-related permiss
 
 
 
+### References 
+
+- https://developer.android.com/guide/topics/connectivity/bluetooth/permissions
+- https://medium.com/@ajinkya.kolkhede1/requesting-runtime-permissions-using-new-activityresult-api-cb6116551f00
     
      
 
